@@ -1,0 +1,4 @@
+### DELETE request to delete a patient
+DELETE http://lb-f810c8a3.elb.localhost.localstack.cloud:4004/api/patients/b1a850a7-892a-4bd9-8719-05b1ae60e5e0
+Authorization: Bearer {{token}}
+###

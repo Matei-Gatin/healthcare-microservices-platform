@@ -1,0 +1,5 @@
+### GET patient by id
+GET http://lb-f810c8a3.elb.localhost.localstack.cloud:4004/api/patients/123e4567-e89b-12d3-a456-426614174000
+Authorization: Bearer {{token}}
+
+###
